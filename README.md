@@ -13,7 +13,7 @@
 
 </td></tr>
 
-[django00_tree]: https://github.com/enes2424/42-Kocaeli-Django-Piscine/tree/42-Kocaeli-OCAML-1-BasicSyntaxAndSemantics-0
+[django00_tree]: https://github.com/enes2424/42-Kocaeli-Django-Piscine/tree/42-Kocaeli-Django-0-Initiation
 [django00_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 
 </table>
