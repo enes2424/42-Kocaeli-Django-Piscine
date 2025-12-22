@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV</title>
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+        margin: 0;
+        padding: 20px;
+      }
+      header {
+        text-align: center;
+        background-color: #007bff;
+        color: white;
+        padding: 20px;
+        border-radius: 8px;
+      }
+      h1 {
+        margin: 0;
+        font-size: 2.5em;
+      }
+      h2 {
+        color: #007bff;
+        border-bottom: 2px solid #007bff;
+        padding-bottom: 5px;
+      }
+      section {
+        background-color: white;
+        margin: 20px 0;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+      ul,
+      ol {
+        padding-left: 20px;
+      }
+      li {
+        margin: 5px 0;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 10px;
+        background-color: white;
+      }
+      th,
+      td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+      }
+      th {
+        background-color: #007bff;
+        color: white;
+      }
+      footer {
+        text-align: center;
+        margin-top: 20px;
+        font-style: italic;
+        color: #666;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>{title}</h1>
+    </header>
+
+    <main>
+      <section id="personal-info">
+        <h2>{name} {surname}</h2>
+        <p>Yaş: {age}</p>
+        <p>Meslek: {profession}</p>
+        <p>Galaksi İmparatoru ve Zaman Yolcusu Uzmanı</p>
+      </section>
+
+      <section id="skills">
+        <h2>Yetenekler</h2>
+
+        <ul>
+          <li>Uzaylılarla telepatik iletişim</li>
+          <li>Zaman yolculuğu ve paralel evren navigasyonu</li>
+          <li>Süper hızda kod yazma</li>
+          <li>Robot ordusu komuta etme</li>
+        </ul>
+      </section>
+
+      <section id="career-path">
+        <h2>Kariyer Geçmişi</h2>
+
+        <ol>
+          <li>
+            Galaksi İmparatorluğu Şirketi'nde İmparator (2020-Günümüz):
+            Operasyonları yönetme ve sistemleri optimize etme.
+          </li>
+          <li>
+            Süper Kahraman Asistanı (2018-2020): Kötüleri yenme ve şehirleri
+            kurtarma.
+          </li>
+          <li>
+            Zaman Yolcusu Çırağı (2015-2018): Geçmiş ve geleceği keşfetme.
+          </li>
+        </ol>
+      </section>
+
+      <section id="table-section">
+        <h2>Süper Projeler</h2>
+
+        <table>
+          <tr>
+            <th>Proje Adı</th>
+            <th>Rolüm</th>
+          </tr>
+          <tr>
+            <td>Galaksi Fetih Projesi</td>
+            <td>Baş İmparator</td>
+          </tr>
+          <tr>
+            <td>Zaman Makinesi İnşaası</td>
+            <td style="text-align: right; border: 3px solid #424242 !important">
+              Baş Mühendis
+            </td>
+          </tr>
+        </table>
+      </section>
+    </main>
+
+    <footer>
+      <p>İletişim: enes@galaksi.com | Tel: +90 555 123 4567</p>
+    </footer>
+  </body>
+</html>
