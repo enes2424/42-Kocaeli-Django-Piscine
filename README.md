@@ -11,6 +11,7 @@
 | :-:                               | :-:                                       |
 | [django00][django00_tree]         | [![django00_badge]][django00_tree]        |
 | [django01][django01_tree]         | [![django01_badge]][django01_tree]        |
+| [django02][django02_tree]         | [![django02_badge]][django02_tree]        |
 
 </td></tr>
 
@@ -18,5 +19,7 @@
 [django00_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 [django01_tree]: https://github.com/enes2424/42-Kocaeli-Django-Piscine/tree/42-Kocaeli-Django-1-Starting
 [django01_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[django02_tree]: https://github.com/enes2424/42-Kocaeli-Django-Piscine/tree/42-Kocaeli-Django-2-Obb
+[django02_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 
 </table>
