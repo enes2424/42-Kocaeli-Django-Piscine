@@ -7,11 +7,11 @@
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
 
-| Proje Adı                         | Proje Durumu                              |
-| :-:                               | :-:                                       |
-| [django00][django00_tree]         | [![django00_badge]][django00_tree]        |
-| [django01][django01_tree]         | [![django01_badge]][django01_tree]        |
-| [django02][django02_tree]         | [![django02_badge]][django02_tree]        |
+|         Proje Adı         |            Proje Durumu            |
+| :-----------------------: | :--------------------------------: |
+| [django00][django00_tree] | [![django00_badge]][django00_tree] |
+| [django01][django01_tree] | [![django01_badge]][django01_tree] |
+| [django02][django02_tree] | [![django02_badge]][django02_tree] |
 
 </td></tr>
 
